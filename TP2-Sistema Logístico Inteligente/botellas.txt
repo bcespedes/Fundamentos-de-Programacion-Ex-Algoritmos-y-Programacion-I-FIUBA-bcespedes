@@ -1,0 +1,5 @@
+Verde 0
+Rojo 0
+Azul 0
+Negro 0
+Amarillo 0
